@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>TypeScript and VSCode</p>
 <ol>
 <li>
