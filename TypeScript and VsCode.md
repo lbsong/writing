@@ -1,15 +1,34 @@
-# TypeScript and VSCode
+# <p>
+TypeScript and VSCode
 
-1. Install VSCode extension: [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-2. Install node modules locally: 
+1. </p>
+<ol>
+<li>
+<p>Install VSCode extension: [Code Runner](<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+2. I">Code Runner</a></p>
+</li>
+<li>
+<p>Iinstall node modules locally: 
 
-	Create file package.json in the root folder of your ts files
-* Install typescript: **npm install --save-dev typescript**
-* Install typescript-tools: **npm install --save-dev typescript-tools**
+	</p>
+<p>Create file package.json in the root folder of your ts files
+* </p>
+</li>
+</ol>
+<ul>
+<li>Install typescript: **<strong>npm install --save-dev typescript**
+* </strong></li>
+<li>Install typescript-tools: **<strong>npm install --save-dev typescript-tools**
 
-Now you can create new .ts file and press CTRL+ALT+N to run the file in VS code.
+</strong></li>
+</ul>
+<p>Now you can create new .ts file and press CTRL+ALT+N to run the file in VS code.
 
-> Written with [StackEdit](https://stackedit.io/).
+> </p>
+<blockquote>
+<p>Written with [StackEdit](<a href="https://stackedit.io/).">StackEdit</a>.</p>
+</blockquote>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDA0MDAyOF19
+eyJoaXN0b3J5IjpbNTEyNDQyNzQ0LDEwOTQwNDAwMjhdfQ==
 -->
