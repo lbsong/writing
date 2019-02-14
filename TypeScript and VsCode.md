@@ -1,4 +1,3 @@
-# <p>
 TypeScript and VSCode
 
 1. </p>
@@ -11,7 +10,7 @@ TypeScript and VSCode
 <p>Iinstall node modules locally: 
 
 	</p>
-<p>Create file package.json in the root folder of your ts files
+<p>Create filthe root  of your ts files
 * </p>
 </li>
 </ol>
@@ -30,5 +29,6 @@ TypeScript and VSCode
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDQyNzQ0LDEwOTQwNDAwMjhdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTk0NTE1NSw1MTI0NDI3NDQsMTA5ND
+A0MDAyOF19
 -->
