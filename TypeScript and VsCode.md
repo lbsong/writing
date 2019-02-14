@@ -1,10 +1,11 @@
-<p>TypeScript and VSCode</p>
+<p>
+TypeScript and VSCode</p>
 <ol>
 <li>
 <p>Install VSCode extension: <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a></p>
 </li>
 <li>
-<p>Install node modules locally:</p>
+<p>Iinstall node modules locally:</p>
 <p>Create file package.json in the root folder of your ts files</p>
 </li>
 </ol>
@@ -17,3 +18,6 @@
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5MTkwNTMxNl19
+-->
