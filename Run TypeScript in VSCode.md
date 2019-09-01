@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="how-to-run-typescript-file-in-vs-code">How to run typescript file in VS Code</h1>
 <ol>
